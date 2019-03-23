@@ -1,2 +1,1 @@
 # DistribuccionProbabiblidadHipergeometrica
-Inferencia Estadística
